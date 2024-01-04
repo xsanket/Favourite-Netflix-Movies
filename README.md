@@ -8,6 +8,11 @@ In the project directory, you can run:
 
 ### `npm start`
 
+## ScreenShots:
+
+![netflix](https://github.com/xsanket/Favourite-Netflix-Movies/assets/121148185/558eaeca-39d4-485b-98bc-c8fbdc7f0f85)
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
